@@ -5,7 +5,7 @@ public enum ErrorCode {
     NAMEISINVALID("CS1001"),
     SURNAMEISINVALID("CS1002"),
     EMAILISINVALID("CS1003"),
-    AGEISINVALID("CS1004"),
+    PHONEISINVALID("CS1004"),
     CITYISINVALID("CS1005");
 
     private String code;
